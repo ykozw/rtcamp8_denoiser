@@ -18,4 +18,3 @@ denoiser.exe ../images/color.hdr ../images/albedo.hdr ../images/normal.hdr denoi
 # Result
 
 ![compare](images/compare.png)
-
