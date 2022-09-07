@@ -2,7 +2,6 @@
 The denoiser submitted at [Raytracing Camp 8](https://sites.google.com/view/raytracingcamp8/).
 
 # How to build and run
-
 ```bash
 $ git clone --recursive https://github.com/ykozw/rtcamp8_denoiser.git
 $ cd rtcamp8_denoiser
